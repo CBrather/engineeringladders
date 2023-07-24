@@ -45,7 +45,8 @@ The chart shown above has the following 5 axes:
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+Each axis has 5 different levels of performance. It is important to highlight that while theoretically, every level includes the previous one(s), engineers have individual strengths, weaknesses, and talents. These charts simply attempt to cover the majority of engineers, thus there can be exceptions where one performs well on a higher level, while not living up to a lower one. For example, some engineers might **Create** new technology without **Evangelizing** new tech or having **Mastered** the team's whole technology stack.
+Others might naturally step up to **Coordinate** the team on some initiatives, while not being up there as a **Mentor** to others.
 
 Keep reading to better understand each level.
 
@@ -62,9 +63,9 @@ Keep reading to better understand each level.
 ## System
 
 1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
+2. **Designs**: designs and implements medium to large size features, actively avoiding and mitigating technical debt
 3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+4. **Evolves**: evolves the architecture to support future requirements and decrease technical debt, and defines its SLAs
 5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 
 ## People
